@@ -14,4 +14,13 @@ fedesoriano. (September 2021). Heart Failure Prediction Dataset. Retrieved [Date
 
 # Performance Summary for CatBoost Model:
 
+Detailed Metrics:
+----------------------------------------
+Sensitivity (Recall): 0.9583
+Specificity: 0.8020
+Precision: 0.8734
+Negative Predictive Value: 0.9310
+Accuracy: 0.8939
+F1 Score: 0.9139
+
 ![Example Image](images/performance_summary.png)
